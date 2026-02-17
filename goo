@@ -177,7 +177,7 @@
 
     <script>
         // --- KONFIGURASI GOOGLE SHEETS ---
-        const SCRIPT_URL = 'URL_APPS_SCRIPT_ANDA_DI_SINI';
+        const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwaraZDpbROGGiWiz4nDuRbKE2T5wYVf7Rf_F0dxlxVwWY9cJ_9ktS-2yuTsdtX7zwswg/exec';
         let database = { klien: [], perusahaan: [], history: [] };
 
         // Load Data Awal
